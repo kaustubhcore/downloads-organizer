@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+
+# Build output
+build/
+dist/
+*.spec.bak
+
+# IDE and editor
+.vscode/
+.idea/
+
+# Testing and temporary files
+test_folder/
+.pytest_cache/
+.coverage
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
